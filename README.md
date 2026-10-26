@@ -22,7 +22,7 @@ Press the configured shortcut to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kwin-windows-style-up.git
+git clone https://github.com/junarwohn/kwin-windows-style-up.git
 cd kwin-windows-style-up
 ```
 
