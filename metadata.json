@@ -1,0 +1,12 @@
+{
+  "KPlugin": {
+    "Id": "kwin-top-maximize",
+    "Name": "Windows Style Top Maximize",
+    "Description": "Top tile on first press, maximize on second press",
+    "Version": "1.0",
+    "License": "MIT"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js",
+  "KPackageStructure": "KWin/Script"
+}
